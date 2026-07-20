@@ -99,7 +99,7 @@ Advantages:
 - Learns hidden market states automatically.
 - Captures regime persistence.
 - Suitable for financial time series.
-
+## issue your own FRED API key for macro proxies data
 ---
 
 ## 2. Feature Selection
